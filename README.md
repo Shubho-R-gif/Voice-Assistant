@@ -25,4 +25,4 @@ A modern **React** application leveraging the **Web Speech API** for real-time v
 - **Vite**: Fast and modern build tool for React development.  
 
 ---
-This project is licensed under the MIT License - see the [LICENSE](MIT-License) file for details.
+This project is licensed under the MIT License - see the [LICENSE](MIT-LICENSE) file for details.
